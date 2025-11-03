@@ -7,7 +7,7 @@ import {
   anyadirGasto,
   filtrarGastos,
   agruparGastos,
-} from "../Practica final obligatoria/final.js";
+} from "../js/gestionPresupuesto.js";
 
 // Función CrearGasto y funcionamiento de objeto gasto
 describe("Función CrearGasto y funcionamiento de objeto gasto", function () {
